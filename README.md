@@ -27,7 +27,7 @@
 * TP1 - Codage des caractères - Partie 1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_codage_des_caracteres_1.ipynb)
 * TP2 - Codage des caractères - Partie 2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_codage_des_caracteres_2.ipynb)
 
-https://mybinder.org/v2/gh/MatveiBG/NSI1ere/TP_codage_des_caracteres_1.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MatveiBG/NSI1ere/TP_codage_des_caracteres_1.ipynb)j
 
 
 This work is licensed under a
