@@ -54,6 +54,8 @@
   * Corrigé du TP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_3_correct.ipynb)
 ### Chapitre 4 - Algorithmique
   1. Principes d'algorithmique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_04_intro.ipynb)
+  * Exercices - [Complexite](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/Exercices_complexite.pdf)
+
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
