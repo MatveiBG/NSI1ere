@@ -56,6 +56,7 @@
   1. Principes d'algorithmique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_04_intro.ipynb)
   * Corrigé exercices du cours - [Corrigé cours](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/cours_04_intro_correct.pdf)
   * Exercices - [Complexite](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/Exercices_complexite.pdf)
+  * Corrigé feuille exercices - [Corrigé feuille](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/Exercices_complexite_correct.pdf)
 
 
 This work is licensed under a
