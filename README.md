@@ -64,6 +64,7 @@
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_04_1_correct.ipynb)
   4. Algorithmes d'optimisation [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_04_D.ipynb)
   * TP - Les algorithmes gloutons [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_04_1.ipynb)
+  * Corrigé du TP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_04_1_correct.ipynb)
 
 
 This work is licensed under a
