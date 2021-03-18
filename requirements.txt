@@ -18,3 +18,4 @@ ipyturtle
 folium
 unidecode
 sklearn
+mlxtend
