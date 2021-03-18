@@ -17,3 +17,4 @@ chardet
 ipyturtle
 folium
 unidecode
+sklearn
