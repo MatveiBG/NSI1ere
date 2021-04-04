@@ -1,0 +1,48 @@
+﻿//Texte introductif :
+
+Bienvenue sur info.cern.ch
+Le site Web du tout premier serveur Web du monde
+1990, une année riche en événements:
+
+En février, Nelson Mandela est libéré après 27 ans de prison
+En avril, la navette spatiale Discovery met en orbite le télescope spatial Hubble
+En octobre, l'Allemagne est réunifiée
+
+Et à la fin de l'année se produit une révolution qui va bouleverser notre mode de vie.
+
+
+//Reste du texte :
+
+C'est au CERN, Organisation européenne pour la recherche nucléaire, en mars 1989, que tout commence. Un physicien, Tim Berners-Lee, rédige une proposition de gestion de l'information, expliquant comment transférer des données sur l'Internet en toute simplicité grâce à l'hypertexte, le système, aujourd'hui familier, permettant d'aller d'une information à l'autre d'un simple clic. L'année suivante, Robert Cailliau, ingénieur systèmes, apporte son concours, et devient rapidement un partisan résolu du système.
+
+L'idée de départ était d'associer l'hypertexte à l'Internet et aux ordinateurs personnels, afin de permettre aux physiciens du CERN de disposer d'un seul et unique réseau pour mettre en commun tous les éléments d'information stockés dans les ordinateurs du Laboratoire. L'hypertexte permettrait aux utilisateurs de naviguer facilement d'un texte à l'autre sur les pages Web au moyen de liens. Les premiers prototypes sont développés sur des ordinateurs NeXT.
+
+Tim Berners-Lee crée alors un système d'édition et de navigation visant à transformer le système en espace créatif pour mettre en commun et modifier les informations et élaborer un hypertexte commun. Comment appeler ce nouveau navigateur? La Mine d'informations? Les Mailles de l'information ? En mai 1990, le système est baptisé World Wide Web - la Toile mondiale.
+
+Info.cern.ch est l'adresse du tout premier site et serveur Web, qui était hébergé par un ordinateur NeXT du CERN. La première adresse Web était http://info.cern.ch/hypertext/WWW/TheProject.html. La page correspondante donnait des informations sur le projet WWW. On y trouvait des informations sur l'hypertexte, la technique permettant de créer sa propre page Web, et même la recherche d'informations sur la Toile. Il n'existe pas de reproduction de cette page originale. De toute façon, les informations étaient mises à jour quotidiennement, au fur et à mesure du développement du projet WWW. Vous pourrez voir cette page, dans une version ultérieure (1992), sur le site Web du Consortium du World Wide Web.
+
+Toutefois, un site Web, c'est comme un téléphone : tout seul, il ne sert pas à grand-chose. L'équipe de Tim Berners-Lee devait donc diffuser le logiciel du serveur et du navigateur. Or les systèmes NeXT étaient très en avance sur les ordinateurs dont disposait le plus grand nombre. Pour la diffusion, il fallait donc utiliser un système logiciel beaucoup moins sophistiqué.
+
+Au printemps 1991, un navigateur en mode ligne universel était testé; il pourrait fonctionner sur n'importe quel ordinateur ou terminal. Son fonctionnement était simple, avec des commandes saisies au clavier. Pas de souris, pas d'élément graphique, juste du texte, mais toute personne disposant d'une connexion Internet pouvait accéder aux informations présentes sur le Web.
+
+Pendant l'année 1991, d'autres institutions ont commencé à utiliser des serveurs en Europe et, en décembre 1991, le premier serveur extra-européen a été installé aux États-Unis, au SLAC. En novembre 1992, il y avait 26 serveurs dans le monde et, en octobre 1993, on en dénombrait plus de 200. En février 1993, le Centre national pour les applications de super-informatique (NCSA) situé sur le campus d'Urbana-Champaign de l'Université de l'Illinois a sorti la première version de Mosaic, qui devait rendre le Web accessible aux utilisateurs de PC et de Macintosh d'Apple.
+
+On connaît la suite...
+
+Ainsi, le Web, conçu au départ pour aider les physiciens à répondre à d'épineuses questions sur l'Univers, est utilisé aujourd'hui à des fins multiples dans le monde entier et fait désormais partie de notre vie quotidienne.
+
+Il existe aujourd'hui plus de 80 millions de sites Web, encore plus d'ordinateurs reliés à l'Internet, et des centaines de millions d'utilisateurs. Si les ménages achètent des ordinateurs de nos jours, ce n'est pas pour faire des calculs, mais pour surfer sur le Web.
+
+
+//Légendes des figures :
+
+Pour l'image TimBerners.jpg
+Tim Berners-Lee qui cherchait un moyen simple et efficace de communiquer par ordinateurs à l'échelle mondiale, a réalisé son rêve en créant le World Wide Web.
+
+Pour l'image RobertCailliau.jpg:
+Robert Cailliau, collaborateur du projet et premier surfeur sur le World Wide Web.
+
+Pour l'image Next.jpg :
+Une pièce de musée : l'ordinateur NeXT utilisé par Tim Berners-Lee en 1990, exposé au Microcosm, au CERN. Cet ordinateur a été le premier serveur Web, le premier navigateur hypermédia et le premier éditeur Web.
+
+
