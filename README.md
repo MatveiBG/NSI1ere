@@ -75,7 +75,8 @@
   * TP - Créer une page web avec CSS [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_05_2.ipynb)
   3. Créer une page web interactive [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_05_C.ipynb)
   4. Protocle HTTP et web dynamique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_05_D.ipynb)
-
+* TD - Créer une page web dynamique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_05_1.ipynb)
+* 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
