@@ -77,7 +77,9 @@
   4. Protocole HTTP et web dynamique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_05_D.ipynb)
   * TD - Créer une page web dynamique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_05_1.ipynb)
   * TP - Observer les échanges HTTP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_05_3.ipynb)
+
 test
+
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
