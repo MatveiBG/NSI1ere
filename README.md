@@ -81,6 +81,8 @@
   1. Architecture de Von Neumann [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_06_1.ipynb)
   * TD - Programmer en assembleur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_06_1.ipynb)
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_06_1_correct.ipynb)
+  2. Architecture réseau [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_06_2.ipynb)
+  * TD - Simuler un réseau informatique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_06_2.ipynb)
 
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
